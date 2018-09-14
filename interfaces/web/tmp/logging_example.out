@@ -31139,3 +31139,35 @@ INFO:paste.httpserver.ThreadPool:Shutting down threadpool
 INFO:paste.httpserver.ThreadPool:All workers stopped
 INFO:paste.httpserver.ThreadPool:Shutting down threadpool
 INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:MyTestWebApp:2018-09-14 12:35	Tashkeel2	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 12:35	TashkeelText	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 12:36	TashkeelText	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:MyTestWebApp:2018-09-14 12:37	TashkeelText	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped

@@ -115,6 +115,8 @@ class webApp(baseWebApp):
         text=rq.q.getfirst('text','Zerrouki Taha').decode('utf-8')
         action=rq.q.getfirst('action','DoNothing').decode('utf-8')
         order=rq.q.getfirst('order','0').decode('utf-8')
+        resultType=rq.q.getfirst('resultType','json').decode('utf-8') 
+
         options={};
         options['lastmark']=rq.q.getfirst('lastmark','0').decode('utf-8')       
         #print order.encode('utf8');
@@ -126,7 +128,10 @@ class webApp(baseWebApp):
         # self.writelog(repr(resulttext),"ResultText");
         # we choose to avoid logging results
         # self.writelog(resulttext,"ResultText");       
-        return {'result':resulttext, 'order':order}
+        if resultType=="json":
+            return {'result':resulttext, 'order':order}
+        else:
+            return resulttext
 
     @expose(percentTemplate,["doc.html"])
     def doc(self, rq, *args):
