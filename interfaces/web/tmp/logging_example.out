@@ -30764,3 +30764,378 @@ INFO:paste.httpserver.ThreadPool:All workers stopped
 INFO:paste.httpserver.ThreadPool:Shutting down threadpool
 INFO:paste.httpserver.ThreadPool:All workers stopped
 INFO:MyTestWebApp:2018-04-27 09:43	Tashkeel2	ربيــع متأخر يأتــي بمــا تشتهيه
+INFO:MyTestWebApp:2018-08-24 01:08	Tashkeel2	صنع النجار كرسيا.
+
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:MyTestWebApp:2018-08-24 02:04	Tashkeel2	طوت البنت الثوب.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'الماضي المعلوم:هي:::y:' and tagmaker =='V-1;F1--;----;-a-H'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:MyTestWebApp:2018-09-07 07:44	Tashkeel2	يتعب الإنسان في صغره كي يرتاح في كبره .
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::n:' and tagmaker =='V-0;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:تعليل:مبني:ناصب:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المنصوب:هو:::n:' and tagmaker =='V-0;M1A-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-07 07:50	DoNothing	Zerrouki Taha
+INFO:MyTestWebApp:2018-09-07 07:59	DoNothing	Zerrouki Taha
+INFO:MyTestWebApp:2018-09-07 07:59	DoNothing	Zerrouki Taha
+INFO:MyTestWebApp:2018-09-07 08:02	Tashkeel2	يتعب الإنسان في صغره كي يرتاح في كبره .
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::n:' and tagmaker =='V-0;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:تعليل:مبني:ناصب:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المنصوب:هو:::n:' and tagmaker =='V-0;M1A-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-07 08:41	Tashkeel	السلام عليكم و رحمة الله و بركاته
+
+INFO:MyTestWebApp:2018-09-07 08:41	Tashkeel	السلام عليكم و رحمة الله و بركاته
+
+INFO:MyTestWebApp:2018-09-07 08:46	Tashkeel	السلام عليكم و رحمة الله و بركاته
+
+INFO:MyTestWebApp:2018-09-07 08:46	Tashkeel	السلام عليكم و رحمة الله و بركاته
+
+INFO:MyTestWebApp:2018-09-07 08:48	Tashkeel2	يتعب الإنسان في صغره كي يرتاح في كبره .
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::n:' and tagmaker =='V-0;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:تعليل:مبني:ناصب:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المنصوب:هو:::n:' and tagmaker =='V-0;M1A-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-07 08:48	RandomText	Zerrouki Taha
+INFO:MyTestWebApp:2018-09-07 08:48	Tashkeel2	تمهل في السير.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هي:::y:' and tagmaker =='V-1;F1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 10:53	Tashkeel2	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:00	Tashkeel	أكل الذئب الخروف.
+
+INFO:MyTestWebApp:2018-09-14 11:00	Tashkeel1	أكل الذئب الخروف.
+
+INFO:MyTestWebApp:2018-09-14 11:00	Tashkeel3	أكل الذئب الخروف.
+
+INFO:MyTestWebApp:2018-09-14 11:00	Tashkeel2	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:01	Tashkeel2	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:03	TashkeelText	أكل الذئب الخروف.
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'استفهام::منصوب:متحرك:ينون:اسم:توكيد:معرب::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:06	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:06	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:23	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:24	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:24	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:24	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:28	TashkeelText	الهدف من بناء قلم لقراءة النصوص و تحويلها إلى كلام محكي هو توفير أداة إلكترونية
+محمولة للأشخاص المكفوفين و ضعيفي البصر تساعدهم في التعلم و الوصول لأي
+محتوى عربي مطبوع بطريقة سهلة و سريعة و تحقق متطلبات الزمن الحقيقي. يتكون
+برنامج النظام من خطوتين رئيسيتين: أولا يتم إلتقاط صور لحروف و كلمات النص
+و من ثم معالجتها و التعرف على الأحرف و بالتالي يتم تحويل الصور إلى نصوص»
+ثانيا يتم معالجة النصوص الناتجة من الخطوة الأولى باستخدام طريقة تحليل الصفة
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:تنوين:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::ضمير:ضمير منفصل:مبني::' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:منصوب:متحرك:تنوين:::' and tagmaker =='N--;F-A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر:تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::جمع مذكر سالم:لايضاف:جمع:مجرور::' and tagmaker =='N--;-3I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منسوب:مرفوع:::' and tagmaker =='N--;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هي:::y:' and tagmaker =='V-1;F1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:اسم:اسم موصول:معرب::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:تنوين:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:تنوين:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مرفوع:متحرك:ينون:::' and tagmaker =='N--;F-U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منسوب:مجرور:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::n:' and tagmaker =='V-0;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مثنى:مجرور:لايضاف::' and tagmaker =='N--;-2I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مثنى:مجرور:لايضاف:::' and tagmaker =='N--;-2I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطتان:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'معطوف:عطف:استفهام:::حرف:المشبهة بليس:مبني:رافع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:تنوين:::' and tagmaker =='N--;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:تنوين:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:اسم موصول:مبني::' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف منفصل:مبني:متبع:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::y:' and tagmaker =='V-1;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::تنوين:منصوب:متحرك:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::y:' and tagmaker =='V-1;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='NM-;F-I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:28	TashkeelText	الهدف من بناء قلم لقراءة النصوص و تحويلها إلى كلام محكي هو توفير أداة إلكترونية
+محمولة للأشخاص المكفوفين و ضعيفي البصر تساعدهم في التعلم و الوصول لأي
+محتوى عربي مطبوع بطريقة سهلة و سريعة و تحقق متطلبات الزمن الحقيقي. يتكون
+برنامج النظام من خطوتين رئيسيتين: أولا يتم إلتقاط صور لحروف و كلمات النص
+و من ثم معالجتها و التعرف على الأحرف و بالتالي يتم تحويل الصور إلى نصوص»
+ثانيا يتم معالجة النصوص الناتجة من الخطوة الأولى باستخدام طريقة تحليل الصفة
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:تنوين:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::ضمير:ضمير منفصل:مبني::' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:منصوب:متحرك:تنوين:::' and tagmaker =='N--;F-A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر:تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::جمع مذكر سالم:لايضاف:جمع:مجرور::' and tagmaker =='N--;-3I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منسوب:مرفوع:::' and tagmaker =='N--;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هي:::y:' and tagmaker =='V-1;F1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:الأسماء الخمسة:مبني:جار:' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:اسم:اسم موصول:معرب::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:تنوين:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:تنوين:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مرفوع:متحرك:ينون:::' and tagmaker =='N--;F-U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::منسوب:مجرور:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::n:' and tagmaker =='V-0;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::منصوب:متحرك:ينون:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مثنى:مجرور:لايضاف::' and tagmaker =='N--;-2I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مثنى:مجرور:لايضاف:::' and tagmaker =='N--;-2I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطتان:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'معطوف:عطف:استفهام:::حرف:المشبهة بليس:مبني:رافع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:تنوين:::' and tagmaker =='N--;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:تنوين:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::اسم:اسم موصول:مبني::' and tagmaker =='N--;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف منفصل:مبني:متبع:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::y:' and tagmaker =='V-1;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::تنوين:منصوب:متحرك:::' and tagmaker =='N--;--A-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'المضارع المعلوم:هو:::y:' and tagmaker =='V-1;M1U-;----;-afH'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف جر:مبني:جار:مدخل مشكول:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مجرور:متحرك:ينون:::' and tagmaker =='N--;--I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'جر::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='N--;F-I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مجرور:متحرك:ينون:::' and tagmaker =='NM-;--I-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مؤنث:مجرور:متحرك:ينون:::' and tagmaker =='NM-;F-I-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:35	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-09-14 11:35	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped
+INFO:paste.httpserver.ThreadPool:Shutting down threadpool
+INFO:paste.httpserver.ThreadPool:All workers stopped

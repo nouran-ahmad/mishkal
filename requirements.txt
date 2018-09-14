@@ -1,3 +1,4 @@
+mysam-tagmanager>=0.1
 pyarabic>=0.6.2
 CodernityDB==0.4.2
 libqutrub>=1.0
