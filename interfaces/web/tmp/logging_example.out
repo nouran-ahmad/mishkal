@@ -34121,3 +34121,43 @@ INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحر�
 INFO:tashkeel.tashkeel:TaharZe Tags to display 'الماضي المعلوم:هو:::n:' and tagmaker =='V-0;M1--;----;-a-H'
 INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
 INFO:tashkeel.tashkeel:TaharZe Tags to display 'نقطة:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-10-05 02:19	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-10-05 02:19	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-10-05 02:25	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'
+INFO:MyTestWebApp:2018-10-05 02:25	TashkeelText	السلام عليكم و رحمة الله و بركاته
+
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'تعريف::مرفوع:متحرك:ينون:::' and tagmaker =='N--;--U-;--L-;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف::حرف:حرف جر:مبني:جار:' and tagmaker =='---;--B-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::مرفوع:متحرك:ينون:::مدخل مشكول:' and tagmaker =='NM-;--U-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display '::' and tagmaker =='---;----;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':::حرف:حرف عطف:مبني:متبع:' and tagmaker =='---;--B-;----;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display ':مضاف:جمع مؤنث سالم:مرفوع:متحرك:ينون:جمع:::' and tagmaker =='N--;-3U-;---H;----'
+INFO:tashkeel.tashkeel:TaharZe Tags to display 'سطر جديد:newline:break::' and tagmaker =='---;----;----;----'

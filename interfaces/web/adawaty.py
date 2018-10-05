@@ -106,7 +106,7 @@ class webApp(baseWebApp):
     def help(self, rq, *args):
         return {
         }
-    @expose( headers=MyJsonHeaders)
+    @expose(jsonDumps, headers=MyJsonHeaders)
     def ajaxGet(self, rq,  *args):
         """
         this is an example of using ajax/json
